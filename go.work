@@ -4,4 +4,5 @@ use (
 	.
 	./Section-1-Getting-Started
 	./Section-2-Starting-to-Code
+	./Section-3-Console-Input-and-Output
 )
