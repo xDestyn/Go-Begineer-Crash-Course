@@ -6,4 +6,5 @@ use (
 	./Section-2-Starting-to-Code
 	./Section-3-Console-Input-and-Output
 	./Section-4-Types-Expressions-Composition
+	./Section-5-Flow-Control
 )
