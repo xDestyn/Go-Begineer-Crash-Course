@@ -8,4 +8,5 @@ use (
 	./Section-4-Types-Expressions-Composition
 	./Section-5-Flow-Control
 	./Section-6-Flow-Control-Switch-Select
+	./Section-7-Operators
 )
