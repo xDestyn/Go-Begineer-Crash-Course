@@ -7,4 +7,5 @@ use (
 	./Section-3-Console-Input-and-Output
 	./Section-4-Types-Expressions-Composition
 	./Section-5-Flow-Control
+	./Section-6-Flow-Control-Switch-Select
 )
