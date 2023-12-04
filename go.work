@@ -1,4 +1,4 @@
-go 1.20
+go 1.21.3
 
 use (
 	.
@@ -10,4 +10,5 @@ use (
 	./Section-6-Flow-Control-Switch-Select
 	./Section-7-Operators
 	./Section-8-Working-with-Strings
+	./Section-9-Building-a-Simple-Web-Application
 )
